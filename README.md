@@ -20,9 +20,9 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <br>
 
-<img src="https://img.shields.io/badge/jsp-382f4d?style=for-the-badge&logo=jsp&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/jsp-382f4d?style=for-the-badge&logo=jsp&logoColor=white">
 <img src="https://img.shields.io/badge/maven-3a4270?style=for-the-badge&logo=maven&logoColor=white">
-<img src="https://img.shields.io/badge/figma-ffcfeb?style=for-the-badge&logo=figma&logoColor=black">
+<img src="https://img.shields.io/badge/figma-ffcfeb?style=for-the-badge&logo=figma&logoColor=black"> -->
 
 ### 📖 Currently Learning
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
