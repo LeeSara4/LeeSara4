@@ -1,6 +1,6 @@
 <div align=center>
   
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=dark&height=100&section=header&text=I'm%20sara-nl--nl-&desc=backend%20developer&fontSize=60" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=dark&height=100&section=header&text=I'm%20sara-nl--nl-&desc=backend%20developer&fontSize=60" /> -->
 
 ### 📚 STACKS
 <img src="https://img.shields.io/badge/java-734f41?style=for-the-badge&logo=java&logoColor=white">
@@ -26,9 +26,10 @@
 
 ### 📖 Currently Learning
 <!-- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -->
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=Csharp&logoColor=white"> -->
 
-<img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=Csharp&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-3d8ee3?style=for-the-badge&logo=flutter&logoColor=white">
 
 ### [📓 study records](https://sara461.notion.site/sara461/LeeSara4-dde033d947ca41a1a2f4ba779bd65012)
 [<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">](https://sara461.notion.site/sara461/LeeSara4-dde033d947ca41a1a2f4ba779bd65012)
